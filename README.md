@@ -3,4 +3,4 @@ This group project explores how deep learning can identify and segment the pancr
 
 The experiments include 2D U-Net architectures, a 3D U-Net and Swin UNETR. We investigated preprocessing, training strategies and loss functions to address the challenges of segmenting a small organ across scans with varying image characteristics.
 
-
+For further details refer to "presentation_pancreas_segmentation" file.
